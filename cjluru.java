@@ -7,8 +7,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 class cjluru extends AJ implements ActionListener{
-    JButton b3;
-    JTextField t1,t2,t3;
+    JButton b3;JTextField t1,t2,t3;
     cjluru(){
         setSize(600,300);
         setTitle("成绩录入系统");
