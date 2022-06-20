@@ -7,8 +7,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 public class chaxun extends AJ implements ActionListener{
-    JButton b3;
-    JTextField t0,t1,t2;
+    JButton b3;JTextField t0,t1,t2;
     chaxun(){
         setSize(600,300);
         setTitle("查看个人成绩");
