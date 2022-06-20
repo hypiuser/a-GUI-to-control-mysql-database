@@ -7,8 +7,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 class zengjia extends AJ implements ActionListener{
-    JButton b3;
-    JTextField t1,t2,t3,t4,t5,t6,t7;
+    JButton b3;JTextField t1,t2,t3,t4,t5,t6,t7;
     zengjia(){
         setSize(600,300);
         setTitle("新增学生信息");
