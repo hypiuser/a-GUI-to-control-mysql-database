@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JTextField;
+import javax.swing.JTextField; 
 public class chaxun_s extends AJ implements ActionListener{
     JButton b3;JTextField t0,t1,t2,t3,t4,t5,t6,t7;
     chaxun_s(){
